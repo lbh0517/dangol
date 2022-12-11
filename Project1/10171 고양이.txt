@@ -1,0 +1,12 @@
+//10171 고양이
+//printf에서 '\'은 '\\'해야 보인다
+#include <stdio.h>
+
+int main()
+{
+	printf("\\    /\\\n");
+	printf(" )  ( ')\n");
+	printf("(  /  )\n");
+	printf(" \\(__)|");
+	return 0;
+}
